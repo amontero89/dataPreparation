@@ -8,3 +8,10 @@ Notebooks:
 - PrepDatos_Exploracion
 - PrepDatos_Limpieza
 - PrepDatos_VistaMinable
+
+## Hotel Booking Demand data preparation process
+
+Data: https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
+Notebooks:
+- ejercicio_de_preparación_de_datos
