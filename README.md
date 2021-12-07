@@ -14,4 +14,4 @@ Notebooks:
 Data: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 Notebooks:
-- ejercicio_de_preparación_de_datos
+- hotel_preparación_de_datos
